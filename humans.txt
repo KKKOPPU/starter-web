@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    No thanks
 
 # TECHNOLOGY COLOPHON
 
