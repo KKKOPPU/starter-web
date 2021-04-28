@@ -17,3 +17,7 @@ Deployment status
 ## Conclusion
 
 Adding conclusion status
+
+## Copyright
+
+Copyright notice
