@@ -25,3 +25,7 @@ Copyright notice
 ## Contribute
 
 Sample updated by realwork branch
+
+## Thanks
+
+Thanks everyone
