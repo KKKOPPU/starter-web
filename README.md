@@ -31,3 +31,7 @@ Sample updated by realwork branch
 Thanks everyone
 
 Thanks using myfeature branch
+
+## Changes
+
+New changes made
